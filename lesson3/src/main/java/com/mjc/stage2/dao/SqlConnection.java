@@ -26,7 +26,7 @@ public class SqlConnection {
     private static DataSource getDataSource() {
         return new EmbeddedDatabaseBuilder()
                 .setType(EmbeddedDatabaseType.H2)
-                .addScript("./CREATEDB.sql")
+                .addScript("./CREATED.sql")
                 .addScript("./STUDENT.sql")
                 .addScript("./PAYMENTTYPE.sql")
                 .addScript("./PAYMENT.sql")
