@@ -2994,7 +2994,7 @@ insert into payment (type_id, amount, payment_date, student_id) values (4, 7572.
 insert into payment (type_id, amount, payment_date, student_id) values (2, 8376.67, '2019-06-20 17:54:28', 1083);
 insert into payment (type_id, amount, payment_date, student_id) values (1, 2381.93, '2018-07-30 02:28:13', 25);
 insert into payment (type_id, amount, payment_date, student_id) values (3, 3759.05, '2018-01-29 04:29:42', 691);
-insert into payment (type_id, amount, payment_date, student_id) values (4, 4707.82, '2021-09-11 03:00:03', 1889);
-insert into payment (type_id, amount, payment_date, student_id) values (3, 3028.34, '2017-05-18 09:49:22', 367);
-insert into payment (type_id, amount, payment_date, student_id) values (3, 8100.19, '2018-03-18 07:52:11', 16);
-insert into payment (type_id, amount, payment_date, student_id) values (2, 3344.65, '2020-01-05 18:10:49', 886);
+insert into payment (type_id, amount, payment_date, student_id) values (3, 3759.05, '2026-01-29 04:29:42', 691);
+insert into payment (type_id, amount, payment_date, student_id) values (3, 3759.05, '2026-01-29 04:29:42', 691);
+insert into payment (type_id, amount, payment_date, student_id) values (3, 3759.05, '2026-01-29 04:29:42', 691);
+insert into payment (type_id, amount, payment_date, student_id) values (3, 3759.05, '2026-01-29 04:29:42', 691);
